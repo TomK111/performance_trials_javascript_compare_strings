@@ -83,3 +83,6 @@ This is a set of trials conducted on various javascipt methods to test the perfo
 
 0.156 ms
 
+### Conclusion
+
+In conclusion, for the best performance when comparing two strings, use `Intl.Collator()`
